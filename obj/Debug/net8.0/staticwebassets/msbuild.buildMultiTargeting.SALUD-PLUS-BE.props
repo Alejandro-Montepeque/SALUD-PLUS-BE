@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/SALUD-PLUS-BE.props" />
+</Project>
